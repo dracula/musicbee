@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [MusicBee](https://www.getmusicbee.com/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [MusicBee](https://www.getmusicbee.com/).
 
 ![Screenshot](./screenshot.png)
 
@@ -10,11 +10,10 @@ All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
-
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/mly32/Dracula-MusicBee/graphs/contributors).
+| [![Michael Ye](https://avatars2.githubusercontent.com/u/52215742?s=400&v=4)](https://github.com/mly32) |
+| --- |
+| [Michael Ye](https://github.com/mly32) |
 
 ## License
 
