@@ -23,4 +23,5 @@ This MusicBee skin was based off of [MaterialMix](https://getmusicbee.com/addons
 ## License
 
 [cc by-sa 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
 [MIT License](./LICENSE)
