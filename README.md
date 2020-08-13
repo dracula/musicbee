@@ -3,15 +3,14 @@
 > A dark theme for [MusicBee](https://www.getmusicbee.com/).
 
 ![Screenshot](./screenshot.png)
-![Screenshot2](./screenshot2.png)
 
 ## Install
 
-All instructions can be found at [INSTALL](INSTALL.md).
+All instructions can be found at [draculatheme.com/musicbee](https://draculatheme.com/musicbee).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/mly32/Dracula-MusicBee/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/musicbee/graphs/contributors).
 
 [![Michael Ye](https://avatars2.githubusercontent.com/u/52215742?s=400&v=4)](https://github.com/mly32) |
 :---: |
