@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/musicbee](https://draculathem
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/musicbee/graphs/contributors).
 
-[![Michael Ye](https://avatars2.githubusercontent.com/u/52215742?s=400&v=4)](https://github.com/mly32) |
-:---: |
-[Michael Ye](https://github.com/mly32) |
+| [<img src="https://avatars3.githubusercontent.com/u/52215742?s=40&v=4" alt="Michael Ye" width="70">](https://github.com/mly32) | [<img src="https://avatars1.githubusercontent.com/u/25941156?s=460&v=4" alt="Diego Sergio" width="70">](https://github.com/diego-sergio) |
+| :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+|                                             [Michael Ye](https://github.com/mly32)                                             |                                             [Diego Sergio](https://github.com/diego-sergio)                                              |
 
 ## Skin Template
 
